@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "start_gnat_studio",
+      "command": "open",
+      "args": ["-a", "\"GnatStudio\""],
+      "problemMatcher": []
+    },
+    {
+      "label": "start server",
+      "type": "shell",
+      "isBackground": true,
+      "command": "open",
+      "args": ["-a", "\"GnatStudio\""],
+      "presentation": { "reveal": "silent" }
+    }
+  ]
+}
