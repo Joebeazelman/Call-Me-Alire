@@ -49,4 +49,4 @@ To find Alire's executable path, perform the following according to your platfor
 You should see a resulting path for Alire. Copy the path and return to GNAT Studios.
 
 ## Development
-The plug-in is still under development. I made sure to test it as well as I can, including launching a beta in the Ada community. There's a good chance there's a bug somewhere in the code. If you encounter any issues, please submit and issue. If you want to contribute to the project, submit a pull request.
+The plug-in is still under development. I made sure to test it as well as I can, including launching a beta in the Ada community. There's a good chance there's a bug somewhere in the code. If you encounter any issues, please submit an issue. If you want to contribute to the project, submit a pull request.
