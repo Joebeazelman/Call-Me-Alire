@@ -1,10 +1,11 @@
 """
 Call Me Alire
+-------------
 
-Enables seamless integration with Alire
+A GNAT Studio plugin to enable support for Alire-managed projects
 
-A handy cross-platform solution for seamlessly integrating GnatStudio and Alire. Now you can open 
-your projects directly within GPS without ever typing another command from the terminal!
+Call Me Alire is a cross-platform plugin that enables GNAT Studio support for Alire-configured projects. It eliminates the compromise between GNAT Studio's productive IDE and Alire's powerful crate management facilities. You can seamlessly open and work with projects configured in Alire within GNAT Studio without executing commands from the shell. Overall, it results in significant productivity gains from a more streamlined workflow.
+
 
 """
 
