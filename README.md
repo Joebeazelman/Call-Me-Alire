@@ -32,7 +32,7 @@ The **Preferences** page will list all the plug-ins installed in GNAT Studio in 
 
 ### Step 3: Configure the Plug-in
 
-On the Preference page, you should see **Call Me Alire** on the left side of the screen. Click on it to reveal options on the larger right pane. Enter Alire's FULL executable path name in the field label **Alire executable path**. *NOTE: Depending on your theme, the field's border might be very light, click to the right of the label to see the a cursor.* Close the window and restart **GNAT Studio**. 
+On the Preference page, you should see **Call Me Alire** on the left side of the screen. Click on it to reveal options on the larger right pane. Enter Alire's FULL executable file path in the field label **Alire executable file path**. It must contain *alr* in the path. *NOTE: Depending on your theme, the field's border might be very light, click to the right of the label to see the a cursor.* Close the window and restart **GNAT Studio**. 
 
 Test the **Call Me Alire** by opening any Alire manage project. You should see all your files in the project window. If you see the *empty.gpr*, it means an error occurred. Please create an issue on the GitHub page with as much pertinent data as you can. 
 
